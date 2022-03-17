@@ -6,8 +6,10 @@
  - HTML
  - CSS
  - Bootstrap
- - Javascript
+ - Javascript vanilla
  - Firebase - FireStore
  
  > Deploy feito na Vercel
  > Link para teste: https://meuspedidos-c7u77i90i-fmarcelomorais.vercel.app/index.html
+
+ Irei refazê-lo como node para melhora-lo e usar mongodb como banco.
